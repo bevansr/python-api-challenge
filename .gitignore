@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
+VacationPy/api_keys.py
+WeatherPy/api_keys.py
